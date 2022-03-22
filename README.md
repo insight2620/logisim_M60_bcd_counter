@@ -86,7 +86,7 @@ endmodule
 
 2.quartus:
 
-![image](image/图9.png))
+![图9](image\图9.png))
 
 ​                                  说明：当从00计数到59时产生进位，再来一个cp信号整体清零回到00，重新开始新一轮计数。
 
